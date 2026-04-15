@@ -9,4 +9,5 @@ echo "enabling nginx web server"
 systemctl enable nginx
 echo "checking nginx web server status"
 systemctl status nginx  
+echo "update"
  
