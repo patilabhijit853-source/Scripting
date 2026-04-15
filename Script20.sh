@@ -9,3 +9,4 @@ do
 done
 
 echo "Loop finished"
+//info
